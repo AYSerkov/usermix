@@ -1,5 +1,5 @@
 # usermix
-simple script to spray usernames
+simple script to form usernames
 
 
 ## Usage

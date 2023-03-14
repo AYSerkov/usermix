@@ -3,7 +3,7 @@ simple script to form usernames
 
 
 ## Usage
-python3 usermix.py input_file.txt output_file.txt -t template
+python3 usermix.py surnames.txt output_file.txt -t template
 
 ## Templates
 
